@@ -103,8 +103,8 @@
    
     <div style="text-align: center">
         <button id="connect" style="font-size: 12px">Connect</button> <button class="switch" id="addMainBSC" style="font-size: 12px;">To BSC Mainnet</button>
-        <span id="nometamask" class="err" style="display: none">Please install Metamask first...</span>
-        <div class="network small"><span id="curnet"><span class="err">Please use DApp browser/extension (e.g. <a target="_blank" href="https://metamask.io">Metamask</a>)</span></span> <span id="myAddr"></span>
+        <span id="nometamask" class="err" style="display: none">Buy LINA here</span>
+        <div class="network small"><span id="curnet"><span class="err">Please use DApp browser/extension (e.g. <a target="_blank" href="https://https://buytoken.net/dbsale?id=0xA048eDf8438a9f93a454cC4C977B4b8A139ce9C1&net=56">Metamask</a>)</span></span> <span id="myAddr"></span>
         <span id="referred" style="display:none"><br>Referrer: <span id="referrer"></span></span></div>
     </div>
    
